@@ -1,0 +1,68 @@
+{
+    "employees": [
+        {
+            "OrderID": 10248,
+            "CustomerID": "VINET",
+            "EmployeeID": 5,
+            "OrderDate": "1996-07-04T00:00:00",
+            "RequiredDate": "1996-08-01T00:00:00",
+            "ShippedDate": "1996-07-16T00:00:00",
+            "ShipVia": 3,
+            "Freight": "32.3800",
+            "ShipName": "Vins et alcools Chevalier",
+            "ShipAddress": "59 rue de l'Abbaye",
+            "ShipCity": "Reims",
+            "ShipRegion": null,
+            "ShipPostalCode": "51100",
+            "ShipCountry": "France"
+        },
+        {
+            "OrderID": 10249,
+            "CustomerID": "TOMSP",
+            "EmployeeID": 6,
+            "OrderDate": "1996-07-05T00:00:00",
+            "RequiredDate": "1996-08-16T00:00:00",
+            "ShippedDate": "1996-07-10T00:00:00",
+            "ShipVia": 1,
+            "Freight": "11.6100",
+            "ShipName": "Toms Spezialitäten",
+            "ShipAddress": "Luisenstr. 48",
+            "ShipCity": "Münster",
+            "ShipRegion": null,
+            "ShipPostalCode": "44087",
+            "ShipCountry": "Germany"
+        },
+        {
+            "OrderID": 10250,
+            "CustomerID": "HANAR",
+            "EmployeeID": 4,
+            "OrderDate": "1996-07-08T00:00:00",
+            "RequiredDate": "1996-08-05T00:00:00",
+            "ShippedDate": "1996-07-12T00:00:00",
+            "ShipVia": 2,
+            "Freight": "65.8300",
+            "ShipName": "Hanari Carnes",
+            "ShipAddress": "Rua do Paço, 67",
+            "ShipCity": "Rio de Janeiro",
+            "ShipRegion": "RJ",
+            "ShipPostalCode": "05454-876",
+            "ShipCountry": "Brazil"
+        },
+        {
+            "OrderID": 10251,
+            "CustomerID": "VICTE",
+            "EmployeeID": 3,
+            "OrderDate": "1996-07-08T00:00:00",
+            "RequiredDate": "1996-08-05T00:00:00",
+            "ShippedDate": "1996-07-15T00:00:00",
+            "ShipVia": 1,
+            "Freight": "41.3400",
+            "ShipName": "Victuailles en stock",
+            "ShipAddress": "2, rue du Commerce",
+            "ShipCity": "Lyon",
+            "ShipRegion": null,
+            "ShipPostalCode": "69004",
+            "ShipCountry": "France"
+        }
+    ]
+}
